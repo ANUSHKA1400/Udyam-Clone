@@ -150,5 +150,3 @@ This project is open-source and free to use for learning or demonstration purpos
 
 
 
-## 📁 Folder Structure
-
